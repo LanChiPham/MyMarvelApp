@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MyMarvelApp",
+    "slug": "MyMarvelApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "MyMarvelApp"
+}
